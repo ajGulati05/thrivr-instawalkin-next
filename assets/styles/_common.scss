@@ -1,0 +1,70 @@
+$white: #fff;
+$pink: #ff7271;
+$tan: #fffaf2;
+$text-color: #3c4042;
+$gray: #383838;
+$slotcolor: #6fcad829;
+
+@mixin border-radius($radius) {
+  border-radius: $radius;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+}
+
+@mixin transition {
+  transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+}
+
+@mixin transform($value1, $value2) {
+  transform: translate($value1, $value2);
+  -webkit-transform: translate($value1, $value2);
+  -moz-transform: translate($value1, $value2);
+  -ms-transform: translate($value1, $value2);
+}
+
+@mixin bp($point) {
+  $s-max: '(max-width: 400px)';
+  $xs-max: '(max-width: 576px)';
+  $xs-min: '(min-width: 575px)';
+  $sm-max: '(max-width: 767px)';
+  $md-max: '(max-width: 991px)';
+  $lg-max: '(max-width: 1199px)';
+
+  @if $point == s-max {
+    @media #{$s-max} {
+      @content;
+    }
+  }
+
+  @if $point == xs-max {
+    @media #{$xs-max} {
+      @content;
+    }
+  }
+
+  @if $point == xs-min {
+    @media #{$xs-min} {
+      @content;
+    }
+  }
+
+  @if $point == sm-max {
+    @media #{$sm-max} {
+      @content;
+    }
+  }
+
+  @if $point == md-max {
+    @media #{$md-max} {
+      @content;
+    }
+  }
+
+  @if $point == lg-max {
+    @media #{$lg-max} {
+      @content;
+    }
+  }
+}

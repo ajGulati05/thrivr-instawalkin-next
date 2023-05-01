@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="340" viewBox="0 0 304 340">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="220" cy="170" r="84" fill="#3C4042"/>
+        <rect width="168" height="340" x="68" fill="#FFF" stroke="#3C4042" stroke-opacity=".4" stroke-width="4.359" rx="17.436"/>
+        <g transform="translate(0 81)">
+            <rect width="136" height="48" fill="#3ED590" rx="10"/>
+            <circle cx="22" cy="24" r="12" fill="#FFF"/>
+            <rect width="80" height="4" x="46" y="15" fill="#FFF" rx="2"/>
+            <rect width="62" height="4" x="46" y="29" fill="#FFF" rx="2"/>
+        </g>
+        <g transform="translate(136 146)">
+            <rect width="136" height="48" fill="#FF7271" rx="10"/>
+            <circle cx="22" cy="24" r="12" fill="#FFF"/>
+            <rect width="80" height="4" x="46" y="15" fill="#FFF" rx="2"/>
+            <rect width="62" height="4" x="46" y="29" fill="#FFF" rx="2"/>
+        </g>
+        <rect width="136" height="48" x="35" y="244" fill="#6FCAD8" rx="10"/>
+        <circle cx="57" cy="268" r="12" fill="#FFF"/>
+        <rect width="80" height="4" x="81" y="259" fill="#FFF" rx="2"/>
+        <rect width="62" height="4" x="81" y="273" fill="#FFF" rx="2"/>
+        <path fill="#3C4042" d="M112 2h81v6.282c0 4.815-3.903 8.718-8.718 8.718h-63.564C115.903 17 112 13.097 112 8.282V2z" opacity=".4"/>
+    </g>
+</svg>

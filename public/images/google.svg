@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <path id="prefix__a" d="M9.432 2.018c0-.696-.063-1.366-.179-2.01H.001v3.8h5.287c-.228 1.229-.92 2.27-1.96 2.966v2.465h3.174c1.858-1.71 2.93-4.229 2.93-7.22z"/>
+        <path id="prefix__c" d="M8.83 7.977c2.653 0 4.877-.88 6.502-2.38l-3.174-2.465c-.88.59-2.005.937-3.327.937-2.559 0-4.725-1.728-5.497-4.05H.052v2.545C1.668 5.775 4.99 7.977 8.83 7.977z"/>
+        <path id="prefix__e" d="M4.327 6.31c-.196-.589-.308-1.219-.308-1.866 0-.648.112-1.277.308-1.867V.032H1.045C.38 1.358 0 2.86 0 4.444S.38 7.53 1.045 8.856L4.327 6.31z"/>
+        <path id="prefix__g" d="M8.83 3.936c1.443 0 2.738.495 3.756 1.469l2.818-2.818C13.703 1.002 11.479.028 8.83.028 4.99.028 1.668 2.23.05 5.441l3.283 2.545c.772-2.322 2.938-4.05 5.497-4.05z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(4 4) translate(9.823 8.057)">
+            <mask id="prefix__b" fill="#fff">
+                <use xlink:href="#prefix__a"/>
+            </mask>
+            <path fill="#5070A8" d="M0.001 9.239L9.432 9.239 9.432 0.009 0.001 0.009z" mask="url(#prefix__b)"/>
+        </g>
+        <g transform="translate(4 4) translate(.993 11.7)">
+            <mask id="prefix__d" fill="#fff">
+                <use xlink:href="#prefix__c"/>
+            </mask>
+            <path fill="#2F9E4F" d="M0.052 7.977L15.332 7.977 15.332 0.019 0.052 0.019z" mask="url(#prefix__d)"/>
+        </g>
+        <g transform="translate(4 4) translate(0 5.408)">
+            <mask id="prefix__f" fill="#fff">
+                <use xlink:href="#prefix__e"/>
+            </mask>
+            <path fill="#EFB529" d="M0 8.856L4.327 8.856 4.327 0.032 0 0.032z" mask="url(#prefix__f)"/>
+        </g>
+        <g transform="translate(4 4) translate(.993)">
+            <mask id="prefix__h" fill="#fff">
+                <use xlink:href="#prefix__g"/>
+            </mask>
+            <path fill="#D53E36" d="M0.052 7.986L15.404 7.986 15.404 0.028 0.052 0.028z" mask="url(#prefix__h)"/>
+        </g>
+    </g>
+</svg>

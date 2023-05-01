@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="378" height="340" viewBox="0 0 378 340">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#3C4042" d="M131 47c72.35 0 131 58.65 131 131s-58.65 131-131 131S0 250.35 0 178 58.65 47 131 47zm0 20C69.696 67 20 116.696 20 178s49.696 111 111 111 111-49.696 111-111S192.304 67 131 67z"/>
+        <rect width="168" height="340" x="174" fill="#FFF" stroke="#B1B3B3" stroke-width="4" rx="17.436"/>
+        <g transform="translate(106 81)">
+            <rect width="136" height="48" fill="#3ED590" rx="10"/>
+            <circle cx="22" cy="24" r="12" fill="#FFF"/>
+            <rect width="80" height="4" x="46" y="15" fill="#FFF" rx="2"/>
+            <rect width="62" height="4" x="46" y="29" fill="#FFF" rx="2"/>
+        </g>
+        <g transform="translate(242 146)">
+            <rect width="136" height="48" fill="#FF7271" rx="10"/>
+            <circle cx="22" cy="24" r="12" fill="#FFF"/>
+            <rect width="80" height="4" x="46" y="15" fill="#FFF" rx="2"/>
+            <rect width="62" height="4" x="46" y="29" fill="#FFF" rx="2"/>
+        </g>
+        <rect width="136" height="48" x="141" y="244" fill="#6FCAD8" rx="10"/>
+        <circle cx="163" cy="268" r="12" fill="#FFF"/>
+        <rect width="80" height="4" x="187" y="259" fill="#FFF" rx="2"/>
+        <rect width="62" height="4" x="187" y="273" fill="#FFF" rx="2"/>
+        <path fill="#B1B3B3" d="M218 2h81v6.282c0 4.815-3.903 8.718-8.718 8.718h-63.564C221.903 17 218 13.097 218 8.282V2z"/>
+    </g>
+</svg>
